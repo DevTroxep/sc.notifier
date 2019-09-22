@@ -1,0 +1,21 @@
+{
+  "name": "sc.notifier",
+  "description": "Easy interaction with StreamCraft api, allow you to receive various information in a short time.",
+  "version": "1.10.1",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "debug": "^4.1.1",
+    "lowdb": "^1.0.0"
+  },
+  "main": "source/index.js",
+  "maintainers": [
+    {
+      "name": "darkx.js",
+      "email": "darkx.developer@protonmail.com"
+    }
+  ],
+  "private": true,
+  "devDependencies": {
+    "prettier-eslint": "^9.0.0"
+  }
+}
